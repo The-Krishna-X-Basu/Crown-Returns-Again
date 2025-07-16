@@ -2,14 +2,16 @@
 
 Last Updated: July 15, 2025
 Bot Name: The-Crown-Returns.
-Bot ID: [Your Bot’s Client ID]
-Developer Contact: Email: Discord: Ofcdeath696969.
+Bot ID: 1385521602330099775
+Developer Contact: 
+Email: Krishnadehariya446@gmail.com 
+Discord: Ofcdeath696969.
 
 
 
 📘 1. Introduction
 
-This Privacy Policy explains how our Discord bot (“the Bot”) handles your data when you interact with it. By using the Bot, you agree to the practices outlined below.
+This Privacy Policy explains how our Discord bot Crown Returns handles your data when you interact with it. By using the Bot, you agree to the practices outlined below.
 
 
 
@@ -79,7 +81,7 @@ Ask for data to be deleted
 Revoke access by removing the bot from your server
 
 
-Contact us at [your Discord tag or email] for data-related requests.
+Contact us at Ofcdeath696969 for data-related requests.
 
 
 
@@ -93,8 +95,8 @@ We may update this Privacy Policy if the bot’s functionality changes. Signific
 
 Have questions? Hit me up at:
 
-Discord: basuxkrishna#0000
+Discord: Ofcdeath696969
 
-GitHub: [Your GitHub profile or repo link]
+GitHub: none yet...
 
-Support Server: [If you have one]
+Support Server: https://discord.gg/UtsnbyEP
